@@ -1,16 +1,13 @@
-# name_your_price
+# Demo: "Hãy chọn giá đúng" (Name your price)
+**Link app: https://nameyourprice.codemagic.app** 
 
-A new Flutter project.
+Đây là toàn bộ source code được viết trong series video hướng dẫn **Học Flutter kiểu mới (dành cho newbie)** của mình.
+Trong series này, mình sẽ hướng dẫn thông qua việc làm 1 ứng dụng web có tên "Hãy chọn giá đúng" (Name your price).
+Một số tính năng chính của app, tính đến thời điểm viết:
+- Hiển thị tên sản phẩm trong danh sách 5 sản phẩm có sẵn.
+- User có thể nhập giá sản phẩm dự đoán vào và nhấn nút Check để kiểm tra kết quả dự đoán có bằng giá thật hay không.
+- User có thể nhấn nút Next để chuyển sang sản phẩm tiếp theo.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Danh sách video trong series:
+- Phần 1: https://youtu.be/NF_EMQrVVPE
+- Phần 2: https://youtu.be/Wtkox8r56Hk
