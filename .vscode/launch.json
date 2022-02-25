@@ -8,6 +8,7 @@
       "name": "workspace",
       "request": "launch",
       "type": "dart",
+      "deviceId": "web-server",
       "args": [
         "--web-port",
         "$FLUTTER_WEB_PORT",
